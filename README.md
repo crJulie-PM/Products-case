@@ -12,7 +12,7 @@
 * **项目目标：** 对 [会话质检与客户画像] 及其核心功能进行用户体验 (UX)、商业模式和技术可行性分析。
 * **关键发现：** 识别了 [关键痛点] 和 [主要增长机会]。
 * **优化建议：** 提出了 3 个可增加用户留存率的 **新功能** 建议。
-* **查看报告：** [点击查看完整的深度拆解报告](https://github.com/crJulie-PM/Products-case/blob/main/%E4%B8%80%E6%AC%BE%E5%9F%BA%E4%BA%8ELLM%E7%9A%84%E4%BC%9A%E8%AF%9D%E8%B4%A8%E6%A3%80%E4%BA%A7%E5%93%81%E8%90%BD%E5%9C%B0%E5%A4%8D%E7%9B%98.pdf))
+* **查看报告：** [点击查看完整的深度拆解报告](https://github.com/crJulie-PM/Products-case/blob/main/%E4%B8%80%E6%AC%BE%E5%9F%BA%E4%BA%8ELLM%E7%9A%84%E4%BC%9A%E8%AF%9D%E8%B4%A8%E6%A3%80%E4%BA%A7%E5%93%81%E8%90%BD%E5%9C%B0%E5%A4%8D%E7%9B%98.pdf)
 
 ### 2. 产品及市场分析：[红书转型理解]
 
@@ -23,7 +23,7 @@
 ---
 
 * **产品策略：** 用户中心设计、生成式 AI 应用设计
-* [cite_start]**数据分析：** SQL 基础、关键指标 (Churn, Retention, DAU/MAU) 定义 [cite: 46]
-* [cite_start]**软技能：** 利益相关者管理 [cite: 39][cite_start]、向上管理与讲故事 [cite: 42]
+* **数据分析：** SQL 基础、关键指标 (Churn, Retention, DAU/MAU) 定义
+* **软技能：** 利益相关者管理、向上管理与讲故事 
 
 ---
